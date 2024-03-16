@@ -13,8 +13,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Get the values from environment variables
-TG_TOKEN = os.getenv("TG_TOKEN")
-GOOGLE_GEMINI_KEY = os.getenv("GOOGLE_GEMINI_KEY")
+TG_TOKEN = os.getenv("7029604421:AAFj_lks-gdJ9UUpp7rNI83u9fN-zZL1rd0")
+GOOGLE_GEMINI_KEY = os.getenv("AIzaSyCDz9aZFGIhOL5lIn7qKX2oHL-RIQ0Hark")
 
 generation_config = {
     "temperature": 0.1,
